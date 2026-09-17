@@ -1,4 +1,4 @@
 window_hours: 24
-threshold: 0.62
+threshold: 0.55
 seed: 7
 record_provenance: true
